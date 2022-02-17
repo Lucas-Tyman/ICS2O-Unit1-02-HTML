@@ -4,4 +4,4 @@
 
 
 
-This website can be found at: [https://Lucas-Tyman.github.io/ICS2O-Unit1-02-HTML](https://Lucas-Tyman.github.io/ICS2O-Unit1-02-HTML)
+This site can be found at: [https://Lucas-Tyman.github.io/ICS2O-Unit1-02-HTML](https://Lucas-Tyman.github.io/ICS2O-Unit1-02-HTML)
